@@ -421,7 +421,7 @@ let tek = `✧────···[ Dashboard ]···────✧
      │
      ├━━━━━━━━━━━━━━━━┈─⋆
      │
-     │ ▸ *Sumber :* YouTube Maxxy Botz
+     │ ▸ *Sumber :* Fin Ofc
      │ ▸ *ᴀᴜᴛʜᴏʀ :* ${nameown}
      ┴ ▸ *ᴏᴡɴᴇʀ :* ${nameown}
      ✧
