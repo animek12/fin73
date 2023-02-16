@@ -49,31 +49,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/maxxystore__' // ig
-global.sgh = 'https://github.com/Maxxy-Botz/' // github
-global.sgc = 'https://chat.whatsapp.com/Ib4JOndTWQmGBSsPGWmIup' // group whatsapp
+global.sig = 'https://instagram.com/al_vin.233' // ig
+global.sgh = 'https://github.com/Raya2399' // github
+global.sgc = 'https://chat.whatsapp.com/BGyvKG4b0Qz2DnGXZTXuAX' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/@MaxxyBotz' // my youtube channel
+global.snh = 'https://www.youtube.com/@alwanganzofficial7125' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '082275734206' //dana
+global.pdana = '081332995497' //dana
 global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
+global.pgopay = '081332995497' //gopay
 global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '085380166282' //telkomsel
-global.ppulsa2 = '085380166282' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.co/MaxxyBotz'
+global.ppulsa = '081332995497' //telkomsel
+global.ppulsa2 = '081251868708' // kalau ada kartu lain isi aja
+global.psaweria = 'https://saweria.co/Rimuru233'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6285380166282'
-global.namebot = '𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
-global.nameown = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.nomorown = '6282261065144'
+global.namebot = 'Fin Md'
+global.nameown = 'Fin Ofc'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Maxxy-Botz' // nama github lu
+global.namagithub = 'Raya2399' // nama github lu
 global.linkgithub = sgh // EDIT LINK GITHUB DI global.sgh
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
@@ -86,7 +86,7 @@ global.openaikey = "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"
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', 'Owner Maxxy', true],
+  ['6282261065144', 'Owner Fin Ofc', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -158,14 +158,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「  𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = "⫹⫺ 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯"
+global.wm = '                「  𝑭𝒊𝒏 𝑴𝒅 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝑭𝒊𝒏 𝑴𝒅 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = "⫹⫺ 𝑭𝒊𝒏 𝑴𝒅"
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿`
+global.titlebot = `⫹⫺ Fin Md Bot | By 𝐅𝐢𝐧 𝐎𝐟𝐜`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = "𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 乂 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯"
+global.author = "𝐅𝐢𝐧 𝐎𝐟𝐜 乂 𝑭𝒊𝒏 𝑴𝒅"
 
 /*Fake*/
 global.fsizedoc = SizeDoc()
