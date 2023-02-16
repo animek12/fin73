@@ -15,13 +15,13 @@ let str = `${global.wm}
 │ • *Ovo:* [${global.povo}]
 │ • *Link Aja:* [${global.plinkaja}]
 ❏────`
-let wibu = `https://i.ibb.co/P5BBzbf/286637238-392674839545088-948545114162206238-n.jpg` 
+let wibu = `https://telegra.ph/file/1ee2290eedd3330a66df8.jpg` 
 let thumb = await(await fetch(wibu)).buffer()
 conn.sendButtonDoc(m.chat, str, wm,'Sewa Bot','.sewa', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://instagram.com/maxxystore__",
+    mediaUrl: "https://instagram.com/al_vin.233",
     mediaType: "VIDEO",
     description: "https://www.instagram.com/p/CevoCg5hG-p/?utm_source=ig_web_copy_link", 
-    title: 'Maxxy Botz MultiDevice',
+    title: 'Fin Ofc MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sig
