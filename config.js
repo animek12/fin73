@@ -180,7 +180,7 @@ global.thumb = ImgEstetik() //Main Thumbnail
 global.imagebot = ImgMountain()
 global.giflogo = VideoGalau()
 global.thumbs = ImgBoneka()
-global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.fla = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
 global.thumbnailUrl = ImgBoneka()
 global.emojis = pickRandom(["👑", "🎗", "️🗿", "🕹", "️💡", "🪄", "🎈", "🎊", "🔖", "📍", "❤", "‍🔥", "💤", "💭", "🕚", "💬", "🚩", "🎐", "🍃", "🌿", "🥀", "✨", "⚡", "☂️"])
 global.flaaa2 = ImgLogo()
@@ -239,8 +239,8 @@ global.htjava = pickRandom(["⛶", "❏", "⫹⫺", "☰", "⎔", "✦", "⭔", 
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Maxxy Botz'
-global.stickauth = `By ©Maxxybotz`
+global.stickpack = 'Fin Md'
+global.stickauth = `By ©Fin Ofc`
 
 global.multiplier = 69 // The higher, The harder levelup
 
